@@ -9,7 +9,6 @@
   "author": "Roger Martinez",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "firebase-admin": "^8.10.0"
+    "express": "^4.17.1"
   }
 }
